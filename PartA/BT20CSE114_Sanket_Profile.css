@@ -55,7 +55,6 @@ body {
     color: rgb(4, 252, 4);
 }
 .background{
-    background-image: url("/PartA/Images/background.jpg");
     background-size:100%;
     background-repeat: no-repeat;
     background-blend-mode: color;
@@ -174,7 +173,7 @@ body {
     width:30%;
        text-align: center;
 
-        background-image: url("/PartA/Images/MyImage.jpeg");
+        background-image: url("/PartA/MyImage.jpeg");
         background-repeat: no-repeat;
         background-size: contain;
         align-items: contain;
